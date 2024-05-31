@@ -1,0 +1,54 @@
+Fundamental discussion about MS Excel:
+-How to boost up your Career with help of MS Excel
+-Taking main Career with MS Excel (remote job/ official job)
+-Workbook
+-Sheet
+-Ribbon
+-Developer mode
+-Keyboard shortcut (Practice...)
+
+
+Discussion about Functions & Formulars (Difference between then):
+Hands on workshop below: 
+=SUM()
+=SUMIF()
+=SUMIFS()
+=AVERAGE()
+=AVERAGEIF()
+=AVERAGEIFS()
+=COUNT()
+=COUNTA()
+=COUNTIF()
+=COUNTIFS()
+=IF()
+=IFS()
+=PRODUCT()
+=TRIM()
+=PROPER()
+=CONCATENAE()
+=MAX()
+=MIN()
+=SORT & FILTER
+=Conditional Formatting
+=Data Validation
+=VLOOKUP()
+
+
+Data Analysis & visualization:
+Hands on workshop:
+-Pivot table
+-Chart
+-Dashboard...
+
+
+Macro:
+-What is macro 
+-Purpose of macro (automatic your tasks...)
+-Hands on..
+
+
+
+
+
+
+
